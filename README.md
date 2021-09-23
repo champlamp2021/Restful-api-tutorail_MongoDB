@@ -1,3 +1,3 @@
 # Restful-api-tutorail_MongoDB
-npm install
-npm run start
+#npm install
+#npm run start
